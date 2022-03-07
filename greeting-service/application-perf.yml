@@ -12,4 +12,4 @@ management:
     
 greeting-service:
   greeting: "Hello"
-  default-value: "Perf"
+  default-value: "Test"
